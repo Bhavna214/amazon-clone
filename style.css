@@ -1,0 +1,6 @@
+.main-section-banner{
+    /* we include this stylesheet bcoz we have buttons on top of the image */
+    background-image: url(images/61DUO0NqyyL._SX3000_.jpg);
+    background-position: center;
+    background-size: cover;
+}
